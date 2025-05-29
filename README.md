@@ -1,2 +1,2 @@
-# PromptLibrary
-PromptLibrary for vercel, supabase
+# Prompt Library
+AI-built prompt management tool using Supabase and Vercel.
